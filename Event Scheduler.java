@@ -117,6 +117,7 @@ public class Main {
         }
     }
 }
+/*
 output :
 Event Scheduler Menu:
 1. Add Event
@@ -136,3 +137,4 @@ Event Scheduler Menu:
 Enter your choice: 3
 Upcoming events:
 Meeting with Bob at 25/08/2024 15:30
+*/
